@@ -17,19 +17,19 @@ body {
     font-family: Arial, Helvetica, sans-serif
 }
 
-/* #word {
-    color: blue;
-    font-size: 20px;
+#word {
+    font-size: 24px;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 #subword {
+    font-size: 16px;
     display: flex;
     justify-content: center;
     align-items: center;
 
-} */
+}
 #show {
     display: flex;
     justify-content: center;
